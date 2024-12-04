@@ -9,9 +9,9 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}/src/advent-of-code-2024",
+            "program": "${workspaceFolder}/src/day_1/src",
             "preLaunchTask": "go build",
-            "cwd": "${workspaceFolder}/src/advent-of-code-2024"
+            "cwd": "${workspaceFolder}/src/day_1/src>"
         }
     ]
 }
